@@ -3,7 +3,7 @@
     <property name="created">2021-12-13T10:47:57</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-12-13T10:49:23</property>
+    <property name="modified">2022-06-02T09:17:32</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
   <colors>
@@ -503,22 +503,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2e2e20" />
+        <option name="BACKGROUND" value="37383c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="252e25" />
+        <option name="BACKGROUND" value="353c3a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2e252e" />
+        <option name="BACKGROUND" value="3b3d38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="212d2d" />
+        <option name="BACKGROUND" value="403a36" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="403534" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="403032" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
