@@ -5,12 +5,12 @@
       <mapping pattern="sess_cd3o2p2h27euc7tll2avmd658s" type="AUTO_DETECTED" />
       <mapping pattern="test2.php" type="AUTO_DETECTED" />
       <mapping pattern="sess_0r4g4darltctev8oeae5e4lfs1" type="AUTO_DETECTED" />
-      <mapping ext="xmind" type="IDEA Mind Map" />
       <mapping pattern="memo_detail" type="PHP" />
       <mapping ext="html" type="PHP" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
+      <mapping ext="xmind" type="IDEA Mind Map" />
     </extensionMap>
   </component>
 </application>
