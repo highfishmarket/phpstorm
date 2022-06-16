@@ -4,6 +4,7 @@
       <mapping pattern="sess_ti3a9v9h15ab63g3e6b7qi2pck" type="AUTO_DETECTED" />
       <mapping pattern="sess_cd3o2p2h27euc7tll2avmd658s" type="AUTO_DETECTED" />
       <mapping pattern="test2.php" type="AUTO_DETECTED" />
+      <mapping pattern="check_file.php" type="AUTO_DETECTED" />
       <mapping pattern="sess_0r4g4darltctev8oeae5e4lfs1" type="AUTO_DETECTED" />
       <mapping pattern="memo_detail" type="PHP" />
       <mapping ext="html" type="PHP" />
