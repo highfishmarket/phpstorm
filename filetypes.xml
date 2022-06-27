@@ -12,6 +12,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="xmind" type="IDEA Mind Map" />
     </extensionMap>
   </component>
