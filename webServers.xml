@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0b47f81c-d435-45b9-972a-cc986faf574d" name="lime" url="3.36.182.196">
-        <fileTransfer rootFolder="/home/" accessType="SFTP" host="210.114.6.217" port="22" sshConfigId="b2eeedbe-e07c-4615-a67f-dcb3584e2a45" sshConfig="trs20@210.114.6.217:22 password">
+        <fileTransfer rootFolder="/home/" accessType="SFTP" host="3.38.136.71" port="22" sshConfigId="8339b857-d47f-4fbb-a4e3-f0c9edb195fe" sshConfig="root@3.38.136.71:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
