@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="&lt;?" value="&lt;?php $END$ ?&gt;" description="&lt;?php ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="&lt;e" value="&lt;?php echo $END$ ?&gt;" description="echo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
