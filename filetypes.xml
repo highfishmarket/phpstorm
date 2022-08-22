@@ -7,7 +7,6 @@
       <mapping pattern="test2.php" type="AUTO_DETECTED" />
       <mapping pattern="check_file.php" type="AUTO_DETECTED" />
       <mapping pattern="sess_0r4g4darltctev8oeae5e4lfs1" type="AUTO_DETECTED" />
-      <removed_mapping ext="ng" type="HTML" />
       <mapping pattern="memo_detail" type="PHP" />
       <mapping ext="html" type="PHP" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -16,6 +15,7 @@
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="xmind" type="IDEA Mind Map" />
