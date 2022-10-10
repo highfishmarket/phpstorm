@@ -1,9 +1,9 @@
 <application>
   <component name="GithubAccounts">
-    <account name="highfishmarket" id="28e6ff94-7e5e-4824-933a-ed8c7e6b277b">
+    <account name="yunpen06" id="75e19c66-b64e-489b-829d-8b3b02ae741b">
       <server host="github.com" />
     </account>
-    <account name="yunpen06" id="75e19c66-b64e-489b-829d-8b3b02ae741b">
+    <account name="highfishmarket" id="28e6ff94-7e5e-4824-933a-ed8c7e6b277b">
       <server host="github.com" />
     </account>
   </component>
