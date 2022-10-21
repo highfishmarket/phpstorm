@@ -5,6 +5,7 @@
       <sshConfig authType="PASSWORD" host="3.36.182.196" id="3a657036-2c8f-49b2-956d-80f7874e7b99" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" host="210.114.6.217" id="b2eeedbe-e07c-4615-a67f-dcb3584e2a45" port="22" nameFormat="DESCRIPTIVE" username="trs20" />
       <sshConfig authType="PASSWORD" host="3.38.136.71" id="8339b857-d47f-4fbb-a4e3-f0c9edb195fe" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="39.115.134.72" id="f163c76b-fb43-499f-984c-4107c97cb68d" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
